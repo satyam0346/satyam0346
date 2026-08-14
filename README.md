@@ -1,1 +1,3 @@
-[![octocat's animated GitSkins profile](https://www.gitskins.com/api/section/hero?username=octocat&theme=neon&style=aura)](https://www.gitskins.com/showcase/octocat?skin=studio)
+![GitSkins Animated Hero](https://www.gitskins.com/api/section/hero?username=satyam0346&theme=github-dark&style=aura)
+<img src="https://www.gitskins.com/api/section/hero?username=satyam0346&theme=github-dark&style=aura" alt="GitSkins Animated Hero" width="860" />
+https://www.gitskins.com/api/section/hero?username=satyam0346&theme=github-dark&style=aura
