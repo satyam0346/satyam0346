@@ -1,3 +1,7 @@
 ![GitSkins Animated Hero](https://www.gitskins.com/api/section/hero?username=satyam0346&theme=github-dark&style=aura)
-<img src="https://www.gitskins.com/api/section/hero?username=satyam0346&theme=github-dark&style=aura" alt="GitSkins Animated Hero" width="860" />
-https://www.gitskins.com/api/section/hero?username=satyam0346&theme=github-dark&style=aura
+![GitSkins Animated Stats](https://www.gitskins.com/api/section/stats?username=satyam0346&theme=github-dark&style=aura)
+![GitSkins Animated Stack](https://www.gitskins.com/api/section/stack?username=satyam0346&theme=github-dark&style=aura)
+![GitSkins Animated Projects](https://www.gitskins.com/api/section/projects?username=satyam0346&theme=github-dark&style=aura)
+![GitSkins Animated Highlights](https://www.gitskins.com/api/section/highlights?username=satyam0346&theme=github-dark&style=aura)
+![GitSkins Animated Heatmap](https://www.gitskins.com/api/section/heatmap?username=satyam0346&theme=github-dark&style=aura)
+![GitSkins Animated Social Row](https://www.gitskins.com/api/section/social?username=satyam0346&theme=github-dark&style=aura)
